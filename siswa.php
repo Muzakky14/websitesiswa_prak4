@@ -60,6 +60,7 @@ echo "<br>";
 echo "<br>";
 echo $siswa2-> nama;
 echo $siswa2-> nisn;
+echo "<br>";
 echo $siswa2-> gender;
 echo "<br>";
 $siswa2->set_nilai(90,92,89);
